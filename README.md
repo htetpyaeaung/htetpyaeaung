@@ -2,7 +2,7 @@ Hi 👋 My name is Htet Pyae Aung
 ===============================
 Graduate Software Developer
 ---------------------------
-I’m a graduate of University of South Australia in Software Development. Currently focusing on web development area.
+I’m a graduate of University of South Australia in Software Development. Currently working as a graduate software developer @ Cara Inc.
 
 *   🌍  I'm based in Adelaide, South Australia
 *   🖥️  See my portfolio at [htetpyaeaung.me](http://htetpyaeaung.me)
