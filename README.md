@@ -1,4 +1,4 @@
-Hi 👋 My name is Htet Pyae Aung
+Hi 👋 I'm Htet Pyae Aung
 ===============================
 Graduate Software Developer
 ---------------------------
