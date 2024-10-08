@@ -5,8 +5,8 @@ Software Developer
 I’m a graduate of University of South Australia in Software Development. Currently working as an application developer @ Cara Inc.
 
 *   🌍  I'm based in Adelaide, South Australia
-*   🖥️  See my portfolio at [htetpyaeaung.me](https://htetpyaeaung.dev)
-*   ✉️  You can contact me at [hello@htetpyaeaung.me](mailto:hello@htetpyaeaung.dev)
+*   🖥️  See my portfolio at [htetpyaeaung.dev](https://htetpyaeaung.dev)
+*   ✉️  You can contact me at [hello@htetpyaeaung.dev](mailto:hello@htetpyaeaung.dev)
 *   🧠  I'm learning flutter and building an exciting app
 *   🤝  I'm open to collaborating on as a developer
 
